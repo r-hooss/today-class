@@ -41,7 +41,10 @@ function App() {
         <div className="reason">내가 쓰고 싶어서 만든</div>
         <div className="WIT">우리 반 시간표 웹 앱</div>
         <div className="WMT">제작자 : 후스</div>
-        <div className="repo">레포지토리 : 아직</div>
+        <div className="repo">
+          레포지토리 :{" "}
+          <a href="https://github.com/r-hooss/today-class">click here</a>
+        </div>
       </div>
     </div>
   );
